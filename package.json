@@ -1,0 +1,24 @@
+{
+  "name": "csp2-b581-laforteza-delostrinos",
+  "version": "1.0.0",
+  "description": "- **Student 1:** Richard De Los Trinos  \r - **Student 2:** Rydel Ann Laforteza",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ec2-54-147-90-61.compute-1.amazonaws.com:B581/csp2-b581-laforteza-delostrinos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.2"
+  }
+}
