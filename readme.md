@@ -1,8 +1,8 @@
 # 🛍️ E-Commerce API Project
 
 ## 👥 Team Members
-- **Student 1:** Richard De Los Trinos  
-- **Student 2:** Rydel Ann Laforteza  
+- **Member 1:** Richard De Los Trinos  
+- **Member 2:** Rydel Ann Laforteza  
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## ⚙️ Feature Assignments
 
-### ✳️ Features by Student 1
+### ✳️ Features by Member 1
 - Data Model Design  
 - Retrieve User Details  
 - Set User as Admin (Admin only)  
@@ -33,7 +33,7 @@
 - Change Product Quantities in Cart
 - Create Order
 
-### ✳️ Features by Student 2
+### ✳️ Features by Member 2
 - User Registration  
 - User Authentication
 - Create Product
