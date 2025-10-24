@@ -52,4 +52,3 @@
 
 📘 **Note:**  
 This project implements RESTful API endpoints following the E-commerce API specifications, including user authentication, admin access control, and password management.
-# Backend_API_for_Online_Retail
